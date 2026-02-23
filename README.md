@@ -1,1 +1,3 @@
 # BinarySearchTree
+
+I chose to use a binary search tree for my project two submission. The purpose of this program is to efficiently manage and retrieve information about courses and any prerequisites they might have. It provides an organized, easy to use system where you can load data from a file, and then search through that file in alphanumeric order. By utilizing a Binary Search Tree data structure, it ensures that course data can be stored, searched, and displayed efficiently. This program overall improves accuracy, speed, and consistency in academic advising, but can also be used for any system that manages ordered data with dependencies, not just what we are using it for here, academic wise. Some examples might be Employee training systems, and project planning.
